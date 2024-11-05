@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ewihuoce.github.io/Rpu/sitemap_index.txt
+Sitemap: https://ewihuoce.github.io/TCv/sitemap_index.txt
+Sitemap: https://ewihuoce.github.io/ZGv/sitemap_index.txt
+Sitemap: https://ewihuoce.github.io/rOm/sitemap_index.txt
